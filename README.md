@@ -1,3 +1,5 @@
+# DashBoard : 1
+
 Interactive IPL Dashboard using Power BI
 
 Description
@@ -35,6 +37,7 @@ Tools and Technologies
 
 
 
+# DashBoard : 2
 
 Interactive Global Super Store Dashboard using Power BI
 
