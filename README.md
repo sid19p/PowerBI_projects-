@@ -96,6 +96,10 @@ Key Features
 	•	Shipping Costs by Carrier: Details shipping costs for different carriers to understand cost efficiency among providers.
 	•	Cost by Route: Evaluates the costs associated with various supply chain routes, offering insights into route efficiency.
 
+<img width="677" alt="powerbi2" src="https://github.com/user-attachments/assets/adb6315b-416b-446b-b122-c62d1eaabc58">
+
+
+
 Learnings from Building the Dashboard
 
 	1.	Data Integration and Transformation: Developed expertise in integrating and cleaning supply chain data using Power BI’s ETL capabilities for accurate insights.
